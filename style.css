@@ -1,0 +1,87 @@
+.background{
+    background-color:#FFB0B0;
+    margin:1mm;
+    colour:black;
+}
+
+.header{
+    background-color :#335D2D;
+    display : flex;
+    justify-content: space-between;
+}
+
+.panda{
+    display : flex;
+    color:#133B56
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:#133B56
+    . chamelon{
+    }
+    .chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:#133B56
+}
+
+.cicada{
+    display : flex;
+    color:black
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:#133B56
+}
+
+.pigeon{
+    display : flex;
+    color:#133B56
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:#133B56
+}
+
+.teddy{
+    display : flex;
+    color:#133B56
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:#133B56
+}
+
+.camel{
+    display : flex;
+    color:palegreen
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:#133B56
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : greenyellow
+}
+
+body{
+    background: blue;
+    color:#1D2D50;
+}
+.grid{
+    background:#FFB0B0;
+}
+
